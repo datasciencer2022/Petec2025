@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.verde {
+	h2{
+		text-color: green;
+	}
+}
+
+.vermelho {
+	h2{
+		text-color: red;
+	}
+}
